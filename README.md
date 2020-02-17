@@ -2,7 +2,7 @@
 
 https://www.youtube.com/channel/UCqmWJJolqAgjIdLqK3zD1QQ
 
-ヨビノリさんの「今週の積分」を LaTeX で残していく。
+ヨビノリさんの「今週の積分」を LaTeX にしていく。
 というか単に LaTeX で数式を書きたいだけ。
 
 
