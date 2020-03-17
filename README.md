@@ -10,6 +10,8 @@ https://www.youtube.com/channel/UCqmWJJolqAgjIdLqK3zD1QQ
 
 [#2](2.md)
 
+[#3](3.md)
+
 [#60](60.md)
 
 [#61](61.md)
