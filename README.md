@@ -12,6 +12,16 @@ https://www.youtube.com/channel/UCqmWJJolqAgjIdLqK3zD1QQ
 
 [#3](3.md)
 
+[#10](10.md)
+
+[#20](20.md)
+
+[#30](30.md)
+
+[#40](40.md)
+
+[#50](50.md)
+
 [#60](60.md)
 
 [#61](61.md)
