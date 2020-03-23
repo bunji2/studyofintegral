@@ -34,6 +34,9 @@ https://www.youtube.com/channel/UCqmWJJolqAgjIdLqK3zD1QQ
 
 [#65](65.md)
 
+[#66](66.md)
+
+
 ----
 
 [オンライン LaTeX 数式エディタ](https://www.codecogs.com/latex/eqneditor.php)
