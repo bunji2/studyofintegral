@@ -6,7 +6,7 @@ https://www.youtube.com/channel/UCqmWJJolqAgjIdLqK3zD1QQ
 というか単に LaTeX で数式を書きたいだけ。
 
 
-[#1](1.md)
+[#1](1/README.md)
 
 [#2](2.md)
 
