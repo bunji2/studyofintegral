@@ -12,7 +12,7 @@ https://www.youtube.com/channel/UCqmWJJolqAgjIdLqK3zD1QQ
 
 [#3](3.md)
 
-[#10](10.md)
+[#10](10)
 
 [#14](14.md)
 
