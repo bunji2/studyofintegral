@@ -12,9 +12,9 @@ https://www.youtube.com/channel/UCqmWJJolqAgjIdLqK3zD1QQ
 
 [#3](3.md)
 
-[#10](10)
+[#10](10/README.md)
 
-[#14](14.md)
+[#14](14/README.md)
 
 [#20](20.md)
 
