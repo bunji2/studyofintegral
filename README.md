@@ -24,6 +24,10 @@ https://www.youtube.com/channel/UCqmWJJolqAgjIdLqK3zD1QQ
 
 [#30](30.md)
 
+[#31](31/README.md)
+
+[#38](38/README.md)
+
 [#40](40.md)
 
 [#50](50.md)
