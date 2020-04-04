@@ -5,8 +5,6 @@
 -->
 ![](0.gif)
 
-I=\int_{-1}^1\frac{x^2}{1+e^x}dx
-
 https://www.youtube.com/watch?v=NZ1lPPmx89k
 
 ----
