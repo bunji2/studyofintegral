@@ -52,6 +52,9 @@ https://www.youtube.com/channel/UCqmWJJolqAgjIdLqK3zD1QQ
 
 [King Property](kp/README.md)
 
+[#68](68/README.md)
+
+
 ----
 
 [オンライン LaTeX 数式エディタ](https://www.codecogs.com/latex/eqneditor.php)
