@@ -51,7 +51,7 @@ I & = & \int\dfrac{-3}{x-1}dx+\int\dfrac{10}{(x-1)^2}dx+\int\dfrac{-1}{x+1}dx \n
 
 ---
 
-(1) で二項目を
+(1) で二項目の分子を定数でなく一次式にする、つまり、
 
 ![\begin{eqnarray}
 \dfrac{4(3+3x-x^2)}{(x-1)^2(x+1)} & = & \dfrac{A}{x-1}+\dfrac{Bx+C}{(x-1)^2}+\dfrac{D}{x+1} \nonumber
@@ -67,4 +67,4 @@ I & = & \int\dfrac{-3}{x-1}dx+\int\dfrac{10}{(x-1)^2}dx+\int\dfrac{-1}{x+1}dx \n
  & = & \dfrac{A'}{x-1}+\dfrac{B'}{(x-1)^2} 
 \end{eqnarray}](texclip20200601210816.png)
 
-のように (2) に変形できることから、結果として (1) と同じ意味となる。
+のように (2) に変形できることから、結果として (1) を解いているのと同じこととなる。
