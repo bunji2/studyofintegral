@@ -60,8 +60,7 @@ https://www.youtube.com/channel/UCqmWJJolqAgjIdLqK3zD1QQ
 
 [#73](73/README.md)
 
+[#74](74/README.md)
+
 ----
 
-<!--
-[オンライン LaTeX 数式エディタ](https://www.codecogs.com/latex/eqneditor.php)
--->
