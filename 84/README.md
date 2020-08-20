@@ -45,3 +45,27 @@ I&=&\dfrac{1}{2}\int_0^\frac{\pi}{2}\sqrt{1-\sin^2\theta}\cdot\dfrac{1}{2}\cos\t
 &=&\dfrac{1}{4}\left[\dfrac{1}{2}\theta+\dfrac{1}{4}\sin{2\theta}\right]_0^\frac{\pi}{2}\nonumber\\
 &=&\dfrac{\pi}{16}\nonumber
 \end{eqnarray}](texclip20200820215644.png)
+
+----
+
+【発想2】
+
+![\sqrt{a^2-x^2}](texclip20200820214254.png)
+
+を含む形ならば、円の面積を考える。
+
+----
+
+![\begin{eqnarray}
+y=\sqrt{\dfrac{1}{4}-\left(x-\dfrac{1}{2}\right)^2}\nonumber\\
+y^2+\left(x-\dfrac{1}{2}\right)^2=\left(\dfrac{1}{2}\right)^2\nonumber\\
+(y\ge{0})\nonumber\\
+(\frac{1}{2}\le{x}\le{1})\nonumber
+\end{eqnarray}](texclip20200820220514.png)
+
+したがって半径が 1/2 の円の 1/4 の面積に等しい。
+
+![\begin{eqnarray}
+I&=&\left(\dfrac{1}{2}\right)^2\pi\cdot\dfrac{1}{4}\nonumber\\
+&=&\dfrac{\pi}{16}\nonumber
+\end{eqnarray}](texclip20200820220813.png)
